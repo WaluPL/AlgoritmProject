@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1546611153 source:c:\users\micha³ walkiewicz\desktop\tablioca\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
